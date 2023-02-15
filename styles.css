@@ -46,7 +46,7 @@ body{
     background-color: rgb(23,32,42);
     color: white;
 }
-.accordion accordion-flush{
+#accordionFlushExample{
     background-color: rgb(23,32,42);
     color: white;
 }
