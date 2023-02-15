@@ -15,7 +15,7 @@
     margin-right: 30px;
 }
 .nav-link:hover{
-    color: white;
+    color: yellow;
 }
 .navbar-brand{
     padding-left: 30px;
@@ -29,7 +29,7 @@ footer{
     font-size: small;
 }
 .nav-link-footer:hover{
-    color: white;
+    color: yellow;
     font-size: large;
 }
 .icono{
@@ -39,6 +39,3 @@ footer{
     font-family: serif;
 }
 
-container{
-background-color: grey;
-}
