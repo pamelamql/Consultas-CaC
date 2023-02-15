@@ -39,6 +39,10 @@ footer{
 .icono{
     padding-right: 15px;
 }
+body{
+    color: white;
+    background-color: rgb(23,32,42);
+}
 
 
 
