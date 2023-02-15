@@ -6,7 +6,7 @@
 }
 /* nav */
 .navbar{
-    background-color: rgb(47, 79, 79);
+    background-color: rgb(23, 32, 42);
 }
 .nav-link{
     color: white;
@@ -22,7 +22,7 @@
 }
 /* footer */
 footer{
-    background-color: black;
+    background-color: rgb(23, 32, 42);
     font-size: small;
 }
 .nav-link-footer{
