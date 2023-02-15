@@ -42,9 +42,10 @@ body{
     color: white;
     background-color: rgb(23,32,42);
 }
-section{
+.container2{
+    background-color: teal;
     color: white;
-    background-color: rgb(23,32,42);
+}
 }
 
 
