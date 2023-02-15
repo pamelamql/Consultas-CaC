@@ -46,11 +46,13 @@ body{
 .container{
     background-color: rgb(23,32,42);
     color: white;
-}
-.accordion-header{
+    
+    .accordion-header{
     background-color: rgb(23,32,42);
     color: white;
 }
+}
+
 
 
 
