@@ -24,6 +24,9 @@
 footer{
     background-color: rgb(23, 32, 42);
     font-size: small;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 .nav-link-footer{
     font-size: large;
