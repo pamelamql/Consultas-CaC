@@ -47,7 +47,7 @@ body{
     background-color: rgb(23,32,42);
     color: white;
 }
-#accordionFlushExample{
+.accordion-header{
     background-color: rgb(23,32,42);
     color: white;
 }
