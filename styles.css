@@ -43,7 +43,10 @@ body{
     color: white;
     background-color: rgb(23,32,42);
 }
-
+.accordion-button collapsed{
+    color: white;
+    background-color: rgb(23,32,42);
+}
 
 
 
