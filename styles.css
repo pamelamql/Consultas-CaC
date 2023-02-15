@@ -9,13 +9,13 @@
     background-color: rgb(0, 0, 0);
 }
 .nav-link{
-    color: red;
+    color: white;
     font-size: 20px;
     font-family: serif;
     margin-right: 30px;
 }
 .nav-link:hover{
-    color: white;
+    color: orange;
 }
 .navbar-brand{
     padding-left: 30px;
